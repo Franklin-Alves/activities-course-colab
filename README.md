@@ -1,2 +1,2 @@
 # activities-course-colab
-Atividades práticas do curso de ciência de dados - módulo básico
+Atividades práticas do curso de ciência de dados
